@@ -1,2 +1,2 @@
 # Diabetes-Prediction
-Implementing Logistic Regression on a diabetes dataset.
+Implementing Logistic Regression on a Diabetes Dataset.
